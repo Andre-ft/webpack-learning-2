@@ -1,0 +1,10 @@
+body {
+  background: rgb(120, 221, 216);
+  color: wheat;
+  text-align: center;
+}
+
+ul {
+  text-decoration: dotted;
+  color: aqua;
+}
